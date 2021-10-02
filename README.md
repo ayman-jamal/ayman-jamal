@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on improving and developing the role of machine learning and artificial intelligence in the areas of life in my 
       region and the world and making life easier and more feasible.
 - 📫 How to reach me ... 
-      You can contact with me with my email "attiliayman8@gmail.com"
+      You can contact me with my email "attiliayman8@gmail.com"
       
 
 <!---
