@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayman-jamal, a student of computer engineer 
+- 👋 Hi, I’m @ayman-jamal, a student of computer engineering 
 - 👀 I’m interested in machine learning, AI and data science
 - 🌱 I’m currently learning machine learning using python and i've already finished some model as you can see in my githup
 - 💞️ I’m looking to collaborate on improving and developing the role of machine learning and artificial intelligence in the areas of life in my 
