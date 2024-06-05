@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ayman-jamal, a graduated Computer Engineer.
-- 👀 I’m interested in Machine Learning, AI and Data Science
-- 💞️ I’m looking to collaborate on improving and developing the role of Data Science and Artificial Intelligence in the areas of life in my 
-      region and the world and making life easier and more feasible.
 - 📫 How to reach me ... 
       You can contact me with my email "engaymanattili@gmail.com"
       
