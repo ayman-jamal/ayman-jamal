@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ayman-jamal, a Senior  student of Computer Engineering and Data Analysis Teaching Assistant
-- 👀 I’m interested in Machine Learning, AI and Data Sicence
+- 👋 Hi, I’m @ayman-jamal, a graduated Computer Engineer.
+- 👀 I’m interested in Machine Learning, AI and Data Science
 - 💞️ I’m looking to collaborate on improving and developing the role of Data Science and Artificial Intelligence in the areas of life in my 
       region and the world and making life easier and more feasible.
 - 📫 How to reach me ... 
